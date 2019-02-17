@@ -29,3 +29,7 @@ Como exibir seu portfólio no LinkedIn.
 ## Projeto 7 - Configuração de servidor Linux
 
 Hospedar aplicações web utilizando Linux em uma máquina virtual.
+
+## Projeto 8 - Análise Exploratória de Dados
+
+Projeto do Nanodegree Data Scientist em que é realizada uma análise exploratória de dados do preço do Bitcoin e dos principais índices financeiros do mundo.
