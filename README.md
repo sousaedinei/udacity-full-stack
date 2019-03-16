@@ -1,35 +1,35 @@
 # Projetos - Udacity - Desenvolvedor Web Full-Stack
 
-RepositÛrio com os projetos realizados no Nanodegree Desenvolvedor Web Full-Stack da Udacity.
+Reposit√≥rio com os projetos realizados no Nanodegree Desenvolvedor Web Full-Stack da Udacity.
 
 ## Projeto 1 - Site de trailer de filmes
 
-CÛdigo server-side para armazenar lista dos meus filmes favoritos.
+C√≥digo server-side para armazenar lista dos meus filmes favoritos.
 
-## Projeto 2 - Site de portfÛlio
+## Projeto 2 - Site de portf√≥lio
 
-Meu site de portfÛlio com os projetos do Nanodegree Desenvolvedor Web Full-Stack da Udacity.
+Meu site de portf√≥lio com os projetos do Nanodegree Desenvolvedor Web Full-Stack da Udacity.
 
-## Projeto 3 - An·lise de logs
+## Projeto 3 - An√°lise de logs
 
-Ferramenta de relatÛrio que resume dados de uma grande banco de dados.
+Ferramenta de relat√≥rio que resume dados de um grande banco de dados.
 
-## Projeto 4 - Cat·logo de itens
+## Projeto 4 - Cat√°logo de itens
 
-AplicaÁ„o que gera uma lista de itens em v·rias categorias e um sistema de registro e autenticaÁ„o de usu·rios.
+Aplica√ß√£o que gera uma lista de itens em v√°rias categorias e um sistema de registro e autentica√ß√£o de usu√°rios.
 
 ## Projeto 5 - Mapa do bairro
 
-AplicaÁ„o de p·gina ˙nica com Knockout (React) e a API do Google Maps.
+Aplica√ß√£o de p√°gina √∫nica com Knockout (React) e a API do Google Maps.
 
 ## Projeto 6 - Marca pessoal online
 
-Como exibir seu portfÛlio no LinkedIn.
+Como exibir seu portf√≥lio no LinkedIn.
 
-## Projeto 7 - ConfiguraÁ„o de servidor Linux
+## Projeto 7 - Configura√ß√£o de servidor Linux
 
-Hospedar aplicaÁıes web utilizando Linux em uma m·quina virtual.
+Hospedar aplica√ß√µes web utilizando Linux em uma m√°quina virtual.
 
-## Projeto 8 - An·lise ExploratÛria de Dados
+## Projeto 8 - An√°lise Explorat√≥ria de Dados
 
-Projeto do Nanodegree Data Scientist em que È realizada uma an·lise exploratÛria de dados do preÁo do Bitcoin e dos principais Ìndices financeiros do mundo.
+Projeto do Nanodegree Data Scientist em que √© realizada uma an√°lise explorat√≥ria de dados do pre√ßo do Bitcoin e dos principais √≠ndices financeiros do mundo.
